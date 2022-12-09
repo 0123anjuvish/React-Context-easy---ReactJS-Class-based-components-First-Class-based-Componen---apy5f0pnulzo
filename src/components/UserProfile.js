@@ -17,4 +17,3 @@ const UserProfile = () => {
 }
 
 export { UserProfile }
-export {UserProfile}
